@@ -1,0 +1,15 @@
+body{
+  background-color:lightyellow;
+  text-align:center;
+}
+
+h1{
+  color:red;
+}
+
+button{
+  color:black;
+  background-color: red;
+  border:none;
+  border-radius:10px;
+}
